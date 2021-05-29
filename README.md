@@ -10,4 +10,9 @@ If User is alredy logged in, it will proceed to the view cart screen. If the use
 ## Features
 
 * Flexible UI to switch between restaurants and food items
-* Flexible Single Search bar to search for items or restaurants
+* Flexible Single Search bar to filter for items or restaurants
+* Flexibility of items modification form the Cart
+* Good User Experience with infinite scroll
+* User Authentication
+* Reactive UI
+* Option to enter promocodes
