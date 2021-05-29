@@ -1,7 +1,7 @@
 # Foodie
 > Food delivery Web App
 
-By using this app one can order their favourite food from their favourite restaurants. By default when the user opens the app, he will be landing into the home page with the list of food items. There will be a option in the UI to switch the view from food items to restaurants list. By using this option, User can order food directly or they can order the food from their favourite restaurants
+By using this app one can order their favourite food from their favourite restaurants. By default when the user opens the app, he will be landing into the home page with the list of few high rated food items at top of the screen with view more button and a list of few high rated restaurants at the bottom of the screen with view more button. User can click on view more button to see the full list. There will be a option in the UI to switch the view from food items to restaurants list. By using this option, User can switch to the views as per his/her requirement
 
 There will be a search at the top of the homepage. Using this one can search for the food item name or restaurant name. On search, home page will be re rendered with the filtered items. For each food item there will be title, description, rating, price, image and a Add button to add the item to the cart. We can select the quantity at the time of adding it to the cart. User can add any number of items to the cart.
 
