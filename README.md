@@ -9,6 +9,5 @@ If User is alredy logged in, it will proceed to the view cart screen. If the use
 
 ## Features
 
-⋅⋅* Unordered sub-list
-..* Flexible UI to switch between restaurants and food items
-..* Flexible Single Search bar to search for items or restaurants
+* Flexible UI to switch between restaurants and food items
+* Flexible Single Search bar to search for items or restaurants
